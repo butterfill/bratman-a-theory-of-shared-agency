@@ -2,48 +2,51 @@ This is BibTeX, Version 0.99c (TeX Live 2009)
 The top-level auxiliary file: notes on bratman a theory of shared agency june 2011 draft.aux
 The style file: newapa.bst
 Database file #1: $HOME/endnote/phd_biblio.bib
-Warning--empty journal in Butterfill:2011_wija
 You can't pop an empty literal stack for entry Butterfill:2011_wija
 while executing---line 1459 of file newapa.bst
-You've used 7 entries,
+You can't pop an empty literal stack for entry butterfill_minimal
+while executing---line 1459 of file newapa.bst
+You can't pop an empty literal stack for entry surtees_direct_2011
+while executing---line 1459 of file newapa.bst
+You've used 22 entries,
             2708 wiz_defined-function locations,
-            640 strings with 5747 characters,
-and the built_in function-call counts, 3091 in all, are:
-= -- 275
-> -- 133
-< -- 4
-+ -- 51
-- -- 48
-* -- 305
-:= -- 599
-add.period$ -- 21
-call.type$ -- 7
-change.case$ -- 58
-chr.to.int$ -- 6
-cite$ -- 8
-duplicate$ -- 107
-empty$ -- 202
-format.name$ -- 57
-if$ -- 554
+            734 strings with 8502 characters,
+and the built_in function-call counts, 10091 in all, are:
+= -- 900
+> -- 472
+< -- 11
++ -- 181
+- -- 174
+* -- 1020
+:= -- 1955
+add.period$ -- 66
+call.type$ -- 22
+change.case$ -- 189
+chr.to.int$ -- 21
+cite$ -- 22
+duplicate$ -- 340
+empty$ -- 638
+format.name$ -- 210
+if$ -- 1808
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 7
-newline$ -- 38
-num.names$ -- 28
-pop$ -- 35
+missing$ -- 23
+newline$ -- 113
+num.names$ -- 88
+pop$ -- 117
 preamble$ -- 1
-purify$ -- 65
+purify$ -- 212
 quote$ -- 0
-skip$ -- 77
+skip$ -- 239
 stack$ -- 0
-substring$ -- 217
-swap$ -- 24
+substring$ -- 683
+swap$ -- 80
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 42
-warning$ -- 1
-while$ -- 27
+type$ -- 130
+warning$ -- 0
+while$ -- 87
 width$ -- 0
-write$ -- 92
-(There was 1 error message)
+write$ -- 287
+(There were 3 error messages)
