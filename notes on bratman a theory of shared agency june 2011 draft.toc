@@ -2,8 +2,8 @@
 \contentsline {section}{\numberline {2}Shared agency which does not engage planning abilities}{3}{section*.1}
 \contentsline {section}{\numberline {3}A deflationary (but friendly) alternative}{6}{section*.1}
 \contentsline {section}{\numberline {4}fn.\ 254, p.\ 162}{8}{section*.1}
-\contentsline {section}{\numberline {5}Scarce cognitive resources}{8}{section*.1}
-\contentsline {subsection}{\numberline {5.1}A crude objection}{9}{section*.2}
-\contentsline {subsection}{\numberline {5.2}Is the hypothesis true?}{9}{section*.2}
-\contentsline {subsection}{\numberline {5.3}The objection}{10}{section*.2}
-\contentsline {section}{\numberline {6}minor things}{11}{section*.2}
+\contentsline {section}{\numberline {5}Psychological demands}{8}{section*.1}
+\contentsline {subsection}{\numberline {5.1}A crude objection}{12}{section*.2}
+\contentsline {subsection}{\numberline {5.2}Is shared agency cognitively demanding?}{12}{section*.2}
+\contentsline {subsection}{\numberline {5.3}An objection}{13}{section*.2}
+\contentsline {section}{\numberline {6}minor things}{14}{section*.2}

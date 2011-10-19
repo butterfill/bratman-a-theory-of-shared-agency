@@ -8,45 +8,45 @@ You can't pop an empty literal stack for entry butterfill_minimal
 while executing---line 1459 of file newapa.bst
 You can't pop an empty literal stack for entry surtees_direct_2011
 while executing---line 1459 of file newapa.bst
-You've used 22 entries,
+You've used 31 entries,
             2708 wiz_defined-function locations,
-            734 strings with 8502 characters,
-and the built_in function-call counts, 10091 in all, are:
-= -- 900
-> -- 472
-< -- 11
-+ -- 181
-- -- 174
-* -- 1020
-:= -- 1955
-add.period$ -- 66
-call.type$ -- 22
-change.case$ -- 189
-chr.to.int$ -- 21
-cite$ -- 22
-duplicate$ -- 340
-empty$ -- 638
-format.name$ -- 210
-if$ -- 1808
+            799 strings with 9994 characters,
+and the built_in function-call counts, 14372 in all, are:
+= -- 1293
+> -- 644
+< -- 19
++ -- 241
+- -- 234
+* -- 1428
+:= -- 2745
+add.period$ -- 95
+call.type$ -- 31
+change.case$ -- 262
+chr.to.int$ -- 30
+cite$ -- 31
+duplicate$ -- 504
+empty$ -- 935
+format.name$ -- 285
+if$ -- 2624
 int.to.chr$ -- 2
 int.to.str$ -- 0
-missing$ -- 23
-newline$ -- 113
-num.names$ -- 88
-pop$ -- 117
+missing$ -- 32
+newline$ -- 158
+num.names$ -- 128
+pop$ -- 163
 preamble$ -- 1
-purify$ -- 212
+purify$ -- 294
 quote$ -- 0
-skip$ -- 239
+skip$ -- 359
 stack$ -- 0
-substring$ -- 683
-swap$ -- 80
-text.length$ -- 0
+substring$ -- 984
+swap$ -- 128
+text.length$ -- 2
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 130
+type$ -- 184
 warning$ -- 0
-while$ -- 87
+while$ -- 128
 width$ -- 0
-write$ -- 287
+write$ -- 408
 (There were 3 error messages)

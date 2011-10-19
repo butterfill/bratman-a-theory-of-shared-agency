@@ -22,6 +22,20 @@ Apperly, I.~A., Carroll, D.~J., Samson, D., Humphreys, G.~W., Qureshi, A., \&
 \newblock {\em The Quarterly Journal of Experimental Psychology}, {\em 63},
   1201--1217.
 
+\bibitem[\protect\citeauthoryear{Astington}{Astington}{1991}]{Astington:1991jp}
+Astington, J. (1991).
+\newblock Intention in the child's theory of mind.
+\newblock In D.~Frye \& C.~Moore (Eds.), {\em Children's Theories of Mind:
+  mental states and social understanding}  (pp.\ 157--172). Hove: Erlbaum.
+
+\bibitem[\protect\citeauthoryear{Astington \& Gopnik}{Astington \&
+  Gopnik}{1991}]{Astington:1991kk}
+Astington, J. \& Gopnik, A. (1991).
+\newblock Developing understanding of desire and intention.
+\newblock In A.~Whiten (Ed.), {\em Natural Theories of the Mind: evolution,
+  development and simulation of everyday mindreading}  (pp.\ 39--50). Oxford:
+  Blackwell.
+
 \bibitem[\protect\citeauthoryear{Baillargeon, Scott \& He}{Baillargeon
   et~al.}{2010}]{Baillargeon:gx}
 Baillargeon, R., Scott, R.~M., \& He, Z. (2010).
@@ -46,12 +60,23 @@ Butterfill, S. \& Apperly, I.~A. (2011).
 \newblock How to construct a minimal theory of mind (submitted).
 \newblock {\em \url{http://butterfill.com/papers/minimal_theory_of_mind/}}.
 
+\bibitem[\protect\citeauthoryear{Csibra}{Csibra}{2008}]{Csibra:2008pr}
+Csibra, G. (2008).
+\newblock Goal attribution to inanimate agents by 6.5-month-old infants.
+\newblock {\em Cognition}, {\em 107\/}(2), 705--717.
+
 \bibitem[\protect\citeauthoryear{Ferguson \& Breheny}{Ferguson \&
   Breheny}{2011}]{ferguson_eye_2011}
 Ferguson, H.~J. \& Breheny, R. (2011).
 \newblock Eye movements reveal the time-course of anticipating behaviour based
   on complex, conflicting desires.
 \newblock {\em Cognition}, {\em 119\/}(2), 179--196.
+
+\bibitem[\protect\citeauthoryear{Gergely, Nadasky, Csibra \& Biro}{Gergely
+  et~al.}{1995}]{Gergely:1995sq}
+Gergely, G., Nadasky, Z., Csibra, G., \& Biro, S. (1995).
+\newblock Taking the intentional stance at 12 months of age.
+\newblock {\em Cognition}, {\em 56}, 165--193.
 
 \bibitem[\protect\citeauthoryear{Geurts}{Geurts}{2011}]{geurts_quantity_2011}
 Geurts, B. (2011).
@@ -109,6 +134,19 @@ Perner, J. \& Lang, B. (1999).
 \newblock Development of theory of mind and executive control.
 \newblock {\em Trends in Cognitive Sciences}, {\em 3\/}(9), 337--344.
 
+\bibitem[\protect\citeauthoryear{Polak \& Harris}{Polak \&
+  Harris}{1999}]{Polak:1999xr}
+Polak, A. \& Harris, P. (1999).
+\newblock Deception by young children following noncompliance.
+\newblock {\em Developmental Psychology}, {\em 35\/}(2), 561--568.
+
+\bibitem[\protect\citeauthoryear{Richardson, Marsh \& Baron}{Richardson
+  et~al.}{2007}]{richardson_judging_2007}
+Richardson, M.~J., Marsh, K.~L., \& Baron, R.~M. (2007).
+\newblock Judging and actualizing intrapersonal and interpersonal affordances.
+\newblock {\em Journal of Experimental Psychology: Human Perception and
+  Performance. Vol. 33(4)}, {\em 33\/}(4), 845--859.
+
 \bibitem[\protect\citeauthoryear{Samson, Apperly, Braithwaite \&
   Andrews}{Samson et~al.}{2010}]{Samson:2010jm}
 Samson, D., Apperly, I.~A., Braithwaite, J.~J., \& Andrews, B. (2010).
@@ -142,5 +180,23 @@ Vesper, C., Butterfill, S., Knoblich, G., \& Sebanz, N. (2010).
 Warneken, F., Chen, F., \& Tomasello, M. (2006).
 \newblock Cooperative activities in young children and chimpanzees.
 \newblock {\em Child Development}, {\em 77\/}(3), 640--663.
+
+\bibitem[\protect\citeauthoryear{Wellman, Cross \& Watson}{Wellman
+  et~al.}{2001}]{Wellman:2001lz}
+Wellman, H., Cross, D., \& Watson, J. (2001).
+\newblock Meta-analysis of theory of mind development: The truth about
+  false-belief.
+\newblock {\em Child Development}, {\em 72\/}(3), 655--684.
+
+\bibitem[\protect\citeauthoryear{Woodward}{Woodward}{1998}]{Woodward:1998dm}
+Woodward, A.~L. (1998).
+\newblock Infants selectively encode the goal object of an actor's reach.
+\newblock {\em Cognition}, {\em 69}, 1--34.
+
+\bibitem[\protect\citeauthoryear{Woodward \& Sommerville}{Woodward \&
+  Sommerville}{2000}]{Woodward:2000jw}
+Woodward, A.~L. \& Sommerville, J.~A. (2000).
+\newblock Twelve-month-old infants interpret action in context.
+\newblock {\em Psychological Science}, {\em 11\/}(1), 73--77.
 
 \end{thebibliography}
