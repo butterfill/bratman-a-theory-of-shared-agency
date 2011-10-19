@@ -5,5 +5,5 @@
 \contentsline {section}{\numberline {5}Psychological demands}{8}{section*.1}
 \contentsline {subsection}{\numberline {5.1}A crude objection}{12}{section*.2}
 \contentsline {subsection}{\numberline {5.2}Is shared agency cognitively demanding?}{12}{section*.2}
-\contentsline {subsection}{\numberline {5.3}An objection}{13}{section*.2}
-\contentsline {section}{\numberline {6}minor things}{14}{section*.2}
+\contentsline {subsection}{\numberline {5.3}An objection}{14}{section*.2}
+\contentsline {section}{\numberline {6}minor things}{15}{section*.2}

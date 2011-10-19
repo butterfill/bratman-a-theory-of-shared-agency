@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  19 OCT 2011 15:50
+This is XeTeX, Version 3.1415926-2.2-0.9995.2 (TeX Live 2009) (format=xelatex 2010.8.4)  19 OCT 2011 19:16
 entering extended mode
  file:line:error style messages enabled.
  %&-line parsing enabled.
@@ -597,48 +597,48 @@ Overfull \hbox (5.4406pt too wide) in paragraph at lines 225--231
 ld humans, perhaps—who
  []
 
-[8] [9]
-Overfull \hbox (7.799pt too wide) in paragraph at lines 278--288
+[8] [9] [10]
+Overfull \hbox (7.799pt too wide) in paragraph at lines 286--296
 []\EU1/SabonLTStd(0)/m/n/12 The first line of objection (conceptual sophisticat
 ion) could be strength-
  []
 
-[10]
+[11]
 
 Package hyperref Warning: The anchor of a bookmark and its parent's must not
-(hyperref)                be the same. Added a new anchor on input line 303.
+(hyperref)                be the same. Added a new anchor on input line 311.
 
-[11] [12]
-Overfull \hbox (4.17259pt too wide) in paragraph at lines 352--360
+[12] [13]
+Overfull \hbox (4.17259pt too wide) in paragraph at lines 360--368
 \EU1/SabonLTStd(0)/m/n/12 Bratman’s model provides universal coverage, i.e. t
 hat its conditions could
  []
 
-[13] [14] (./notes on bratman a theory of shared agency june 2011 draft.bbl
+[14] (./notes on bratman a theory of shared agency june 2011 draft.bbl [15]
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/it' undefined
-(Font)              using `EU1/AndaleMono(0)/m/n' instead on input line 55.
+(Font)              using `EU1/AndaleMono(0)/m/n' instead on input line 62.
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/n' will be
-(Font)              scaled to size 9.52577pt on input line 55.
+(Font)              scaled to size 9.52577pt on input line 62.
 LaTeX Font Info:    Font shape `EU1/AndaleMono(0)/m/it' will be
-(Font)              scaled to size 9.52577pt on input line 61.
+(Font)              scaled to size 9.52577pt on input line 68.
 
-[15] [16]
+[16]
 Missing character: There is no ‐ in font Sabon LT Std Roman/ICU:mapping=tex-t
 ext,mapping=tex-text,!
 Missing character: There is no ‐ in font Sabon LT Std Roman/ICU:mapping=tex-t
 ext,mapping=tex-text,!
-) [17]
+ [17]) [18]
 (./notes on bratman a theory of shared agency june 2011 draft.aux)
 LaTeX Font Info:    Some font shapes were not available, defaults substituted.
  ) 
 Here is how much of TeX's memory you used:
- 10137 strings out of 494665
- 163485 string characters out of 3163744
- 268630 words of memory out of 3000000
- 13191 multiletter control sequences out of 15000+200000
+ 10159 strings out of 494665
+ 163945 string characters out of 3163744
+ 268644 words of memory out of 3000000
+ 13213 multiletter control sequences out of 15000+200000
  8520 words of font info for 59 fonts, out of 3000000 for 9000
  669 hyphenation exceptions out of 8191
- 41i,8n,48p,831b,439s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 41i,8n,48p,831b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
 
 Output written on notes on bratman a theory of shared agency june 2011 draft.pd
-f (17 pages).
+f (18 pages).
